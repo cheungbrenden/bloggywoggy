@@ -1,9 +1,9 @@
 ---
 toc: true
 layout: post
-description: I'm not sure how to start a blog, but that won't stop me from doing so
+description: Just trying to start a blog
 categories: [markdown]
-title: Pretending like I know what I'm doing
+title: Post numero uno
 ---
 # Test Post
 
